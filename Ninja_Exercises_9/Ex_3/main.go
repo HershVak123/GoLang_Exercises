@@ -45,5 +45,5 @@ func main() {
 	fmt.Println("Counter:", counter)
 }
 
-// If we were to execute this code with go run -race main.go
+// If we were to execute this code with go run -race main_test.go
 // we would see that there is at least one "Data Race"

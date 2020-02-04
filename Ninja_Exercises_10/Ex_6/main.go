@@ -28,4 +28,4 @@ func main() {
 	}
 }
 
-// When we run this code with go run -race main.go, we find that there are no race conditions
+// When we run this code with go run -race main_test.go, we find that there are no race conditions

@@ -47,4 +47,4 @@ func main() {
 	fmt.Println("Counter:", counter)
 }
 
-// If we were to execute this code using go run -race main.go, we will find that there are no race conditions
+// If we were to execute this code using go run -race main_test.go, we will find that there are no race conditions
